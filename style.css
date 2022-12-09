@@ -4,6 +4,7 @@ body {
 
 #banner {
 	width:50%;
+	margin-right: 15%;
 }
 
 .principal{
@@ -23,7 +24,7 @@ p {
 	font-size: 20px
 }
 
-em strong {
+em strong {	
 	color: #52C2FA#;
 }
 
